@@ -10,7 +10,7 @@
 
 <div align="center"><br> 
 <p> 𝗩𝗶𝘀𝗶𝘁𝗼𝗿'𝘀 𝗖𝗼𝘂𝗻𝘁 :eyes:</p>
-<p align="center"><img src="https://profile-counter.glitch.me/{Andreezz}/count.svg" alt="AnhellO :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{joaoplayfm}/count.svg" alt="AnhellO :: Visitor's Count" /></p>
 </div>
 
 	
